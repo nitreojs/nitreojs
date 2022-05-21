@@ -27,7 +27,7 @@ where what
 
 you're welcome
 
-<div align='center'>
+<div align='right'>
   <a title='j++' href='https://github.com/jppteam'>
     <picture>
       <source media='(prefers-color-scheme: dark)' srcset='https://i.imgur.com/HXltrQC.png' alt='работник ж++ (белый) (не расизм)' width='200px'/>
