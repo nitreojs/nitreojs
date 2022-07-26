@@ -14,6 +14,7 @@ stuff, code, some more stuff, some more code, sleep, eat, repeat
 
 1. [`puregram`](https://github.com/nitreojs/puregram) - [telegram bot api](https://core.telegram.org/bots/api), but it's vocoded in _node.js_'s paradise
 2. [`j++`](https://github.com/nitreojs/jpp-lang) - some funny but unfinished _programming language_
+3. [`telegram-spotify-playback`](htttps://github.com/nitreojs/telegram-spotify-playback) - "streams" your current playback into a post in your telegram channel
 
 ## how can you contact me
 
