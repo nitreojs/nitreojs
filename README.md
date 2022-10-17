@@ -14,6 +14,8 @@ stuff, code, some more stuff, some more code, sleep, eat, repeat
 
 1. [`puregram`](https://github.com/nitreojs/puregram) - [telegram bot api](https://core.telegram.org/bots/api), but it's vocoded in _node.js_'s paradise
 2. [`telegram-spotify-playback`](https://github.com/nitreojs/telegram-spotify-playback) - "streams" your current playback into a post in your telegram channel
+3. [`vk-cover-spotify-playback`](https://github.com/nitreojs/vk-cover-spotify-playback) - same as the last one except it's more pretty (i think) and it "streams" your current playback status not into a post in a telegram channel but into your vk cover
+4. [`tree-sitter-jpp`](https://github.com/nitreojs/tree-sitter-jpp) - future j++ language syntax for `tree-sitter`
 
 ## how can you contact me
 
