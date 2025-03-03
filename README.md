@@ -7,9 +7,3 @@
     </picture>
   </a>
 </div>
-
-<br/>
-
-<div align='center'>
-  <img src='https://count.akame.moe/@starkow?theme=rule34'></img>
-</div>
